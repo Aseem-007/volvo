@@ -1,0 +1,496 @@
+*{
+    margin: 0;
+    border: 0;
+}
+
+/* .container{
+    height: 4000px;
+    width: 100%;
+} */
+
+.bg-img{
+    height: 700px;
+    background-image: url("volvo/banner-2400x720.jpg");
+}
+
+.header{
+    width: 1290px;
+    height: 70px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.logo{
+    width: 150px;
+    height: 25px;
+    background-image: url("volvo/white-volvo-wm-1.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.menu-btn a{
+    text-decoration: none;
+    color:white;
+    font-size: 20px;
+    font-weight: bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.sub-head{
+    width: 50px;
+    height: 50px;
+    background-color:rgb(32, 32, 126);
+    margin-top: 465px;
+    margin-left: 12px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    position: fixed;
+    
+
+.shield{
+    height: 37px;
+    width: 32px;
+    position: fixed;
+}
+}
+.main-header{
+    color: aliceblue;
+    padding-top: 280px;
+    padding-left: 836px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+.text-container{
+    height: 140px;
+    width: 100%;
+    /* background-color: brown; */
+    
+}   
+
+.vol-text{
+    color:rgb(82, 82, 82);
+    padding-top: 20px;
+    padding-left: 75px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#tx2{
+    font-size: 100px,70px;
+}
+
+.Main-container{
+    height: 450px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:none;
+}
+.img-cont{
+    height: 450px;
+    width: 1200px;
+    background-color: none;  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-between;
+    
+}
+
+.pic1,.pic2,.pic3{
+    height: 450px;
+    width: 355px;
+     object-position: center;
+    /* border: 10px  solid white; */
+    background-color: burlywood;
+}
+
+
+ .content1{
+    width: 190px;
+    height: 190px;
+    background-color:none;
+    position: absolute;
+    margin-top:-235px;
+    padding-left: 28px;
+ }
+ .content2{
+    width: 190px;
+    height: 190px;
+    background-color:none;
+    position: absolute;
+    margin-top:-200px;
+    padding-left: 38px;
+    
+ }
+ .content3{
+    width: 190px;
+    height: 190px;
+    background-color:none;
+    position: absolute;
+    margin-top:-200px;
+    padding-left: 28px;
+ }
+
+#cont-stxt1{
+    font-family: "Volvo Novum Regular", Arial, sans-serif;
+    color: white;
+
+}
+.A-txt1{
+    font-family: "Volvo Novum Regular", Arial, sans-serif;
+    padding-top: 5px;
+    color: white;
+    line-height: 50px;
+  
+}
+
+#cont-stxt2{
+    font-family: "Volvo Novum Regular", Arial, sans-serif;
+    color: white;
+    padding-top: 25px;
+
+}
+.B-txt1{
+    font-family: "Volvo Novum Regular", Arial, sans-serif;
+    padding-top: 5px;
+    color: white;
+    line-height: 50px;
+  
+}
+#cont-stxt3{
+    font-family: "Volvo Novum Regular", Arial, sans-serif;
+    color: white;
+    padding-top: 25px;
+
+}
+.c-txt1{
+    font-family: "Volvo Novum Regular", Arial, sans-serif;
+    padding-top: 5px;
+    color: white;
+    line-height: 50px;
+  
+}
+.scroll{
+    height: 146px;
+    width: 100%;
+    background-color:none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.the-pad{
+    height: 58px;
+    width: 1240px;
+    background-color:none;
+    display: flex;
+    align-items: center;
+}
+
+.less{
+    height: 60px;
+    width: 60px;
+    background-color: none;
+}
+.great{
+    height: 60px;
+    width: 50px;
+    background-color: none;
+    margin-top: 3px;
+}
+
+.sline{
+    height: 2px;
+    width: 120px;
+    background-color: blue;
+    margin-left: 50px;
+}
+.larline{
+    height: 2px;
+    width: 940px;
+    background-color:darkgrey;
+    margin-left: 1px;
+}
+.vid-cont{
+    height: 720px;
+    width: 100%;
+    background-color:none;
+    display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.head-A{
+    height: 450px;
+    width: 100%;
+    background-color:none;
+    display: flex;
+    justify-content: center;
+     align-items: center;
+
+    
+}
+.tx-h1{
+    width: 615px;
+    height: 390.75px;
+    background-color:none;
+
+}
+
+.pic-h1{
+    width: 615px;
+    height: 390.75px;
+    background-color:none;
+}
+#cr{
+    margin-left: 20px;
+    margin-top: 2px;
+    color:rgb(87, 86, 86);
+}
+.main-tx{
+    height: 70.38px;
+    width: 585px;
+    background-color: none;
+    margin-left: 20px;
+    margin-top: 16px;
+}
+#tx-A{
+    font-family: "Volvo Novum Regular", Arial, sans-serif;
+    color: rgb(87, 86, 86);
+}
+.for-but{
+    height: 52px;
+    width: 585px;
+    background-color:none;
+    margin-left: 20px;
+    display: flex;
+    
+}
+.but-A{
+    height: 52px;
+    width: 230px;
+    background-color:#1251b5;
+    color: white;
+    justify-content: center;
+    align-items: center;
+   
+
+    
+}
+.but-B{
+    height: 52px;
+    width: 230px;
+    background-color:#1251b5;
+    color: white;
+    margin-left: 20px;
+    
+}
+#EX-img,#Ex-img1{
+    height: 20px;
+    width: 20px;
+    margin-left: 10px;
+}
+#Apic{
+    height: 390.75px;
+    width: 585px;
+    margin-left: 15px;
+}
+.head-B{
+height: 400px;
+width: 100%;
+/* background-color:darkcyan; */
+display: flex;
+ justify-content: center;
+ align-items: center;
+}
+.pic-h2,.pic-h3{
+    height: 337px;
+    width: 615px;
+    /* background-color: darkgray; */
+}
+
+
+#Bpic,#Cpic{
+    height: 277.27px;
+    width: 597px;
+    /* margin-left: 15px; */
+}
+#Cpic{
+    margin-left: 15px;
+    width: 585px;
+
+}
+
+.head-c{
+    height: 400px;
+    width: 100%;
+    /* background-color:black; */
+     display: flex;
+     justify-content: center;
+     align-items: center;
+    }
+.pic-h4{
+    height: 434px;
+    width: 615px;
+    /* background-color: darkgray; */
+}
+
+.pic-B{
+    background-color:none;
+    height: 337px;
+    width: 585px;
+} 
+#Dpic{
+    height: 390px;
+    width: 585px;
+}
+.tx-h2{
+    height: 434px;
+    width: 615px;
+    /* background-color:#1251b5; */
+}
+.tx-cont{
+    height: 390px;
+    width: 585px;
+    /* background-color: darkgoldenrod; */
+}    
+
+#lc{
+    font-family: "Volvo Novum Regular", Arial, sans-serif;
+}
+.main-tx2{
+    height: 35.19px;
+    width: 585px;
+    /* background-color:mediumaquamarine; */
+    margin-top: 20px;
+}
+#tx-B{
+    font-family: "Volvo Novum Regular", Arial, sans-serif;
+}
+.for-but{
+    height: 52px;
+    width: 585px;
+    background-color:none;
+    margin-left: 20px;
+    display: flex;
+    
+}
+.but-C{
+    height: 52px;
+    width: 230px;
+    background-color:#1251b5;
+    color: white;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+.but-D{
+    height: 52px;
+    width: 230px;
+    background-color:#1251b5;
+    color: white;
+    margin-left: 20px;
+    
+}
+#EX-img,.EX-img1{
+    height: 20px;
+    width: 20px;
+}
+.footer{
+    height: 665px;
+    width: 100%;
+    background-color:black;
+    display: flex;
+}
+.list-A,.list-B{
+    height: 380.95px;
+    width: 305px;
+    background-color: none;
+    margin-left: 55px;
+    padding-top: 100px;
+}
+.a-one{
+    margin-top: 15px;
+}
+#hd1{
+    margin-left: 40px;
+    font-family: "Volvo Novum Regular", Arial, sans-serif;
+
+}
+#hd1{
+    color: white;
+}
+#it1,#it2,#it3,#it4,#it5,#it6,#it7,#it8,#it9,#it10,#it11,#it12{
+    font-size: 25px;
+    font-family: "Volvo Novum Regular", Arial, sans-serif;
+    color: white;
+    line-height: 40px;
+}
+.list-B{
+    margin-left: 310px;
+} 
+/* #it1,#it2,#it3,#it4,#it5,#it6,#it7 :hover{
+    color: blueviolet;
+}  */
+.stl1,.stl2{
+    list-style-type: none;
+}
+
+.end-tx{
+    height: 60px;
+    width: 150px;
+    background-color: none;
+    margin-top:530px;
+    margin-left: 150px;
+    
+}
+#Ed{
+    font-family: "Volvo Novum Regular", Arial, sans-serif;
+    color: darkgray;
+    font-size: 11px;
+}
+.l-one{
+    height: 10px;
+    width: 150px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: none;
+    margin-top: 8px;
+}
+.privacy{
+    height: 10px;
+    width: 60px;
+    background-color: none;
+    margin-left: 3px;
+    
+}
+#dot{
+    color: white;
+    margin-top: -8px;
+}
+.cookies{
+    height: 10px;
+    width: 60px;
+    background-color: none;
+    margin-right: 8px;
+}
+#pr{
+    font-size: 12px;
+    font-family: "Volvo Novum Regular", Arial, sans-serif;
+    margin-left: 19px;
+    color: white;
+}
+#ck{
+    font-size: 12px;
+    font-family: "Volvo Novum Regular", Arial, sans-serif;
+    color: white;
+    /* margin-left: px; */
+}
